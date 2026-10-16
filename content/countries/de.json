@@ -1,0 +1,224 @@
+{
+  "code": "de",
+  "order": 3,
+  "status": "soon",
+  "name": {
+    "cs": "Německo",
+    "en": "Germany"
+  },
+  "nameIn": {
+    "cs": "v Německu",
+    "en": "in Germany"
+  },
+  "capital": {
+    "cs": "Berlín",
+    "en": "Berlin"
+  },
+  "flagLabel": {
+    "cs": "Vlajka Německa",
+    "en": "Flag of Germany"
+  },
+  "apps": [
+    {
+      "id": "db-navigator",
+      "name": "DB Navigator",
+      "category": "rail",
+      "description": {
+        "cs": "Vlaky Deutsche Bahn a vyhledávání spojení. [doplnit po ověření]",
+        "en": "Deutsche Bahn trains and journey planning. [to be added after verification]"
+      },
+      "requires": {
+        "localPhone": "unknown",
+        "foreignCard": "unknown",
+        "offline": "unknown",
+        "languages": null
+      },
+      "stores": {
+        "ios": null,
+        "android": null,
+        "web": null
+      },
+      "status": "pending",
+      "verifiedAt": null,
+      "kit": 1
+    },
+    {
+      "id": "flixbus",
+      "name": "FlixBus",
+      "category": "bus",
+      "description": {
+        "cs": "Dálkové autobusy a mezinárodní spojení. [doplnit po ověření]",
+        "en": "Long-distance buses and international connections. [to be added after verification]"
+      },
+      "requires": {
+        "localPhone": "unknown",
+        "foreignCard": "unknown",
+        "offline": "unknown",
+        "languages": null
+      },
+      "stores": {
+        "ios": null,
+        "android": null,
+        "web": null
+      },
+      "status": "pending",
+      "verifiedAt": null
+    },
+    {
+      "id": "bvg",
+      "name": "BVG",
+      "category": "mhd",
+      "description": {
+        "cs": "MHD v Berlíně. [doplnit po ověření]",
+        "en": "Public transport in Berlin. [to be added after verification]"
+      },
+      "requires": {
+        "localPhone": "unknown",
+        "foreignCard": "unknown",
+        "offline": "unknown",
+        "languages": null
+      },
+      "stores": {
+        "ios": null,
+        "android": null,
+        "web": null
+      },
+      "status": "pending",
+      "verifiedAt": null,
+      "kit": 2
+    },
+    {
+      "id": "mvg",
+      "name": "MVG",
+      "category": "mhd",
+      "description": {
+        "cs": "MHD v Mnichově. [doplnit po ověření]",
+        "en": "Public transport in Munich. [to be added after verification]"
+      },
+      "requires": {
+        "localPhone": "unknown",
+        "foreignCard": "unknown",
+        "offline": "unknown",
+        "languages": null
+      },
+      "stores": {
+        "ios": null,
+        "android": null,
+        "web": null
+      },
+      "status": "pending",
+      "verifiedAt": null
+    },
+    {
+      "id": "free-now",
+      "name": "FREE NOW",
+      "category": "taxi",
+      "description": {
+        "cs": "Objednání taxi. [doplnit po ověření]",
+        "en": "Ordering taxis. [to be added after verification]"
+      },
+      "requires": {
+        "localPhone": "unknown",
+        "foreignCard": "unknown",
+        "offline": "unknown",
+        "languages": null
+      },
+      "stores": {
+        "ios": null,
+        "android": null,
+        "web": null
+      },
+      "status": "pending",
+      "verifiedAt": null,
+      "kit": 3
+    },
+    {
+      "id": "bolt",
+      "name": "Bolt",
+      "category": "taxi",
+      "description": {
+        "cs": "Objednání taxi a sdílených jízd. [doplnit po ověření]",
+        "en": "Ordering taxis and ride sharing. [to be added after verification]"
+      },
+      "requires": {
+        "localPhone": "unknown",
+        "foreignCard": "unknown",
+        "offline": "unknown",
+        "languages": null
+      },
+      "stores": {
+        "ios": null,
+        "android": null,
+        "web": null
+      },
+      "status": "pending",
+      "verifiedAt": null
+    },
+    {
+      "id": "uber",
+      "name": "Uber",
+      "category": "taxi",
+      "description": {
+        "cs": "Objednání taxi. [doplnit po ověření]",
+        "en": "Ordering taxis. [to be added after verification]"
+      },
+      "requires": {
+        "localPhone": "unknown",
+        "foreignCard": "unknown",
+        "offline": "unknown",
+        "languages": null
+      },
+      "stores": {
+        "ios": null,
+        "android": null,
+        "web": null
+      },
+      "status": "pending",
+      "verifiedAt": null
+    },
+    {
+      "id": "lime",
+      "name": "Lime",
+      "category": "micro",
+      "description": {
+        "cs": "Sdílené koloběžky. [doplnit po ověření]",
+        "en": "Shared e-scooters. [to be added after verification]"
+      },
+      "requires": {
+        "localPhone": "unknown",
+        "foreignCard": "unknown",
+        "offline": "unknown",
+        "languages": null
+      },
+      "stores": {
+        "ios": null,
+        "android": null,
+        "web": null
+      },
+      "status": "pending",
+      "verifiedAt": null
+    },
+    {
+      "id": "google-maps",
+      "name": "Google Maps",
+      "category": "nav",
+      "description": {
+        "cs": "Plánování tras. EzWay ho nenahrazuje, ukazuje jen, kdy se hodí.",
+        "en": "Route planning. EzWay does not replace it, it only shows when it is useful."
+      },
+      "requires": {
+        "localPhone": "unknown",
+        "foreignCard": "unknown",
+        "offline": "unknown",
+        "languages": null
+      },
+      "stores": {
+        "ios": null,
+        "android": null,
+        "web": null
+      },
+      "status": "pending",
+      "verifiedAt": null
+    }
+  ]
+}

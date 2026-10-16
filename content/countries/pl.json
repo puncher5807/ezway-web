@@ -1,0 +1,202 @@
+{
+  "code": "pl",
+  "order": 4,
+  "status": "soon",
+  "name": {
+    "cs": "Polsko",
+    "en": "Poland"
+  },
+  "nameIn": {
+    "cs": "v Polsku",
+    "en": "in Poland"
+  },
+  "capital": {
+    "cs": "Varšava",
+    "en": "Warsaw"
+  },
+  "flagLabel": {
+    "cs": "Vlajka Polska",
+    "en": "Flag of Poland"
+  },
+  "apps": [
+    {
+      "id": "jakdojade",
+      "name": "Jakdojade",
+      "category": "nav",
+      "description": {
+        "cs": "Vyhledávač spojení MHD v polských městech. [doplnit po ověření]",
+        "en": "Public transport journey planner for Polish cities. [to be added after verification]"
+      },
+      "requires": {
+        "localPhone": "unknown",
+        "foreignCard": "unknown",
+        "offline": "unknown",
+        "languages": null
+      },
+      "stores": {
+        "ios": null,
+        "android": null,
+        "web": null
+      },
+      "status": "pending",
+      "verifiedAt": null,
+      "kit": 1
+    },
+    {
+      "id": "mobilet",
+      "name": "moBiLET",
+      "category": "mhd",
+      "description": {
+        "cs": "Jízdenky na MHD v polských městech. [doplnit po ověření]",
+        "en": "Public transport tickets in Polish cities. [to be added after verification]"
+      },
+      "requires": {
+        "localPhone": "unknown",
+        "foreignCard": "unknown",
+        "offline": "unknown",
+        "languages": null
+      },
+      "stores": {
+        "ios": null,
+        "android": null,
+        "web": null
+      },
+      "status": "pending",
+      "verifiedAt": null,
+      "kit": 2
+    },
+    {
+      "id": "pkp-intercity",
+      "name": "PKP Intercity",
+      "category": "rail",
+      "description": {
+        "cs": "Dálkové vlaky PKP Intercity. [doplnit po ověření]",
+        "en": "PKP Intercity long-distance trains. [to be added after verification]"
+      },
+      "requires": {
+        "localPhone": "unknown",
+        "foreignCard": "unknown",
+        "offline": "unknown",
+        "languages": null
+      },
+      "stores": {
+        "ios": null,
+        "android": null,
+        "web": null
+      },
+      "status": "pending",
+      "verifiedAt": null
+    },
+    {
+      "id": "flixbus",
+      "name": "FlixBus",
+      "category": "bus",
+      "description": {
+        "cs": "Dálkové autobusy a mezinárodní spojení. [doplnit po ověření]",
+        "en": "Long-distance buses and international connections. [to be added after verification]"
+      },
+      "requires": {
+        "localPhone": "unknown",
+        "foreignCard": "unknown",
+        "offline": "unknown",
+        "languages": null
+      },
+      "stores": {
+        "ios": null,
+        "android": null,
+        "web": null
+      },
+      "status": "pending",
+      "verifiedAt": null
+    },
+    {
+      "id": "bolt",
+      "name": "Bolt",
+      "category": "taxi",
+      "description": {
+        "cs": "Objednání taxi a sdílených jízd. [doplnit po ověření]",
+        "en": "Ordering taxis and ride sharing. [to be added after verification]"
+      },
+      "requires": {
+        "localPhone": "unknown",
+        "foreignCard": "unknown",
+        "offline": "unknown",
+        "languages": null
+      },
+      "stores": {
+        "ios": null,
+        "android": null,
+        "web": null
+      },
+      "status": "pending",
+      "verifiedAt": null,
+      "kit": 3
+    },
+    {
+      "id": "uber",
+      "name": "Uber",
+      "category": "taxi",
+      "description": {
+        "cs": "Objednání taxi. [doplnit po ověření]",
+        "en": "Ordering taxis. [to be added after verification]"
+      },
+      "requires": {
+        "localPhone": "unknown",
+        "foreignCard": "unknown",
+        "offline": "unknown",
+        "languages": null
+      },
+      "stores": {
+        "ios": null,
+        "android": null,
+        "web": null
+      },
+      "status": "pending",
+      "verifiedAt": null
+    },
+    {
+      "id": "free-now",
+      "name": "FREE NOW",
+      "category": "taxi",
+      "description": {
+        "cs": "Objednání taxi. [doplnit po ověření]",
+        "en": "Ordering taxis. [to be added after verification]"
+      },
+      "requires": {
+        "localPhone": "unknown",
+        "foreignCard": "unknown",
+        "offline": "unknown",
+        "languages": null
+      },
+      "stores": {
+        "ios": null,
+        "android": null,
+        "web": null
+      },
+      "status": "pending",
+      "verifiedAt": null
+    },
+    {
+      "id": "google-maps",
+      "name": "Google Maps",
+      "category": "nav",
+      "description": {
+        "cs": "Plánování tras. EzWay ho nenahrazuje, ukazuje jen, kdy se hodí.",
+        "en": "Route planning. EzWay does not replace it, it only shows when it is useful."
+      },
+      "requires": {
+        "localPhone": "unknown",
+        "foreignCard": "unknown",
+        "offline": "unknown",
+        "languages": null
+      },
+      "stores": {
+        "ios": null,
+        "android": null,
+        "web": null
+      },
+      "status": "pending",
+      "verifiedAt": null
+    }
+  ]
+}

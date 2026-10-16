@@ -1,0 +1,63 @@
+{
+  "intro": {
+    "cs": "Pět kroků od instalace po kontrolu jízdenky.",
+    "en": "Five steps from installation to a ticket inspection."
+  },
+  "steps": [
+    {
+      "title": {
+        "cs": "Instalace",
+        "en": "Installation"
+      },
+      "text": {
+        "cs": "[doplnit po ověření: přesný název a vydavatel v obchodě]",
+        "en": "[to be added after verification: exact name and publisher in the store]"
+      },
+      "image": null
+    },
+    {
+      "title": {
+        "cs": "Jazyk a oprávnění",
+        "en": "Language and permissions"
+      },
+      "text": {
+        "cs": "[doplnit po ověření: jak přepnout jazyk, jaká oprávnění aplikace žádá]",
+        "en": "[to be added after verification: how to switch the language, which permissions the app asks for]"
+      },
+      "image": null
+    },
+    {
+      "title": {
+        "cs": "Registrace nebo přihlášení",
+        "en": "Registration or sign-in"
+      },
+      "text": {
+        "cs": "[doplnit po ověření: je potřeba místní telefonní číslo?]",
+        "en": "[to be added after verification: is a local phone number needed?]"
+      },
+      "image": null
+    },
+    {
+      "title": {
+        "cs": "Platba",
+        "en": "Payment"
+      },
+      "text": {
+        "cs": "[doplnit po ověření: funguje zahraniční platební karta?]",
+        "en": "[to be added after verification: does a foreign payment card work?]"
+      },
+      "image": null
+    },
+    {
+      "title": {
+        "cs": "Jízdenka při kontrole",
+        "en": "Ticket inspection"
+      },
+      "text": {
+        "cs": "[doplnit po ověření: co ukázat revizorovi a kdy aktivovat jízdenku]",
+        "en": "[to be added after verification: what to show the inspector and when to activate the ticket]"
+      },
+      "image": null
+    }
+  ]
+}

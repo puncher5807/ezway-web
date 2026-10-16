@@ -1,0 +1,13 @@
+{
+  "name": "ezway-web",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "EzWay – přehled dopravních aplikací podle destinace (statický web, CS + EN, funguje offline)",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "start": "node scripts/build.mjs && node scripts/serve.mjs",
+    "test": "node scripts/build.mjs && node scripts/check.mjs"
+  }
+}

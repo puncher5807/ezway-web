@@ -1,0 +1,147 @@
+{
+  "site": {
+    "name": "EzWay",
+    "title": "EzWay – transport apps by destination",
+    "description": "Pick a country to see which transport apps to install, how to set them up and how to pay in them as a foreigner. Works offline too."
+  },
+  "banner": "DRAFT · SAMPLE DATA · NOTHING HERE HAS BEEN VERIFIED YET",
+  "skip": "Skip to content",
+  "nav": {
+    "aria": "Main navigation",
+    "countries": "Countries",
+    "why": "Why EzWay",
+    "about": "About"
+  },
+  "langSwitch": {
+    "aria": "Jazyk / Language"
+  },
+  "back": {
+    "all": "All countries",
+    "toCountry": "Back to {country}"
+  },
+  "breadcrumb": {
+    "aria": "Breadcrumbs",
+    "countries": "Countries"
+  },
+  "home": {
+    "kicker": "Transport apps by destination",
+    "h1": "Which apps do you need when you land?",
+    "sub": "Pick a country to see what to install, how to set it up and how to pay there. Works without data.",
+    "cta": "Pick a country",
+    "cta2": "Show the {country} kit",
+    "cardLabel": "Arrival kit",
+    "countriesH2": "Pick a destination",
+    "countriesSub": "We start with Czechia and its neighbours, more countries will follow.",
+    "pilot": "Pilot country",
+    "soon": "Coming soon",
+    "openPilot": "View the kit",
+    "openSoon": "View the draft app list",
+    "whyH2": "What you will find in EzWay",
+    "why": [
+      {
+        "icon": "checklist",
+        "title": "Arrival kit",
+        "text": "A list of apps to install at home, and what each one needs: a local phone number, a payment card or mobile data."
+      },
+      {
+        "icon": "circle-check",
+        "title": "Last verified",
+        "text": "Every guide shows its verification date. You can confirm that it works or report that it no longer does."
+      },
+      {
+        "icon": "doc",
+        "title": "Guides for foreigners",
+        "text": "Step by step with screenshots: how to register without a local SIM and how to pay with a foreign card."
+      }
+    ],
+    "offlineH2": "Save a country to your phone.",
+    "offlineP": "After you arrive you need neither roaming nor mobile data.",
+    "offlineCta": "View {country}"
+  },
+  "preview": {
+    "photo": "Photo: {capital}"
+  },
+  "country": {
+    "lead": "The transport apps you will need {in}, and how to use them as a foreigner.",
+    "soonTitle": "This country is in preparation.",
+    "soonText": "The app list is only a draft to be verified, and the guides for foreigners are not written yet.",
+    "kitH2": "Arrival kit",
+    "kitSub": "Install at home, before your trip.",
+    "allH2": "All apps",
+    "filterAria": "App categories",
+    "filterAll": "All",
+    "shown": "Apps shown: {n}",
+    "guideLink": "Guide for foreigners",
+    "noGuide": "Guide in preparation"
+  },
+  "offline": {
+    "save": "Save offline",
+    "saving": "Saving…",
+    "saved": "Saved for offline use",
+    "remove": "Remove",
+    "error": "Saving failed. Try again while you are online.",
+    "retry": "Try again"
+  },
+  "app": {
+    "verified": "Last verified: {date}",
+    "notVerified": "Last verified: –",
+    "guideH2": "Guide for foreigners",
+    "screenshot": "An annotated screenshot goes here",
+    "reqH2": "Requirements",
+    "feedbackH2": "Does it still work?",
+    "feedbackP": "Did you try the guide? Let us know so we can update it.",
+    "feedbackOk": "Works",
+    "feedbackBad": "Doesn't work",
+    "feedbackNote": "Saved in this browser only. Sending feedback does not work yet, it is in preparation.",
+    "legendH2": "Status legend",
+    "storesH2": "Store links",
+    "storesPlaceholder": "App Store and Google Play. Links will be added according to the account country.",
+    "store": {
+      "ios": "App Store",
+      "android": "Google Play",
+      "web": "Web"
+    }
+  },
+  "req": {
+    "cardPhone": "Local number",
+    "cardCard": "Foreign card",
+    "phone": "Local phone number",
+    "card": "Foreign payment card",
+    "languages": "App languages",
+    "offline": "Works offline"
+  },
+  "tri": {
+    "yes": "Yes",
+    "no": "No",
+    "unknown": "Unknown"
+  },
+  "status": {
+    "verified": "Verified",
+    "partial": "Partly works",
+    "broken": "Doesn't work",
+    "pending": "Awaiting verification"
+  },
+  "statusDesc": {
+    "verified": "The guide passed a check on the stated day.",
+    "partial": "Something has changed and the guide needs an update.",
+    "broken": "The guide is no longer valid.",
+    "pending": "Nobody has checked it yet."
+  },
+  "category": {
+    "mhd": "Public transport & tickets",
+    "rail": "Trains",
+    "bus": "Long-distance buses",
+    "taxi": "Taxi & ride sharing",
+    "micro": "Micromobility",
+    "nav": "Navigation & journey planning"
+  },
+  "footer": {
+    "title": "EzWay – an overview of transport apps by destination.",
+    "note": "App names belong to their owners. EzWay is not affiliated with their operators."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "We don't know this address. Try starting from the home page.",
+    "home": "To the home page"
+  }
+}
