@@ -1,0 +1,147 @@
+{
+  "site": {
+    "name": "EzWay",
+    "title": "EzWay – dopravní aplikace podle destinace",
+    "description": "Vyber zemi a uvidíš, jaké dopravní aplikace si nainstalovat, jak je nastavit a jak v nich zaplatit jako cizinec. Funguje i offline."
+  },
+  "banner": "NÁVRH · UKÁZKOVÁ DATA · NIC Z OBSAHU ZATÍM NENÍ OVĚŘENO",
+  "skip": "Přeskočit na obsah",
+  "nav": {
+    "aria": "Hlavní navigace",
+    "countries": "Země",
+    "why": "Proč EzWay",
+    "about": "O projektu"
+  },
+  "langSwitch": {
+    "aria": "Jazyk / Language"
+  },
+  "back": {
+    "all": "Všechny země",
+    "toCountry": "Zpět na {country}"
+  },
+  "breadcrumb": {
+    "aria": "Drobečková navigace",
+    "countries": "Země"
+  },
+  "home": {
+    "kicker": "Dopravní aplikace podle destinace",
+    "h1": "Jaké aplikace potřebuješ, až přistaneš?",
+    "sub": "Vyber zemi a uvidíš, co si nainstalovat, jak to nastavit a jak tam zaplatit. Funguje i bez dat.",
+    "cta": "Vybrat zemi",
+    "cta2": "Ukázat balíček pro {country}",
+    "cardLabel": "Balíček před příjezdem",
+    "countriesH2": "Vyber destinaci",
+    "countriesSub": "Začínáme s Českem a jeho sousedy, další země přibudou.",
+    "pilot": "Pilotní země",
+    "soon": "Připravujeme",
+    "openPilot": "Zobrazit balíček",
+    "openSoon": "Zobrazit návrh aplikací",
+    "whyH2": "Co v EzWay najdeš",
+    "why": [
+      {
+        "icon": "checklist",
+        "title": "Balíček před příjezdem",
+        "text": "Seznam aplikací, které si nainstaluješ doma, a co která vyžaduje: místní číslo, platební kartu nebo data."
+      },
+      {
+        "icon": "circle-check",
+        "title": "Naposledy ověřeno",
+        "text": "U každého postupu je datum ověření. Můžeš potvrdit, že funguje, nebo nahlásit, že už ne."
+      },
+      {
+        "icon": "doc",
+        "title": "Postupy pro cizince",
+        "text": "Krok za krokem se screenshoty: jak se registrovat bez místní SIM a jak zaplatit zahraniční kartou."
+      }
+    ],
+    "offlineH2": "Ulož si zemi do telefonu.",
+    "offlineP": "Po příjezdu nepotřebuješ roaming ani mobilní data.",
+    "offlineCta": "Zobrazit {country}"
+  },
+  "preview": {
+    "photo": "Fotografie: {capital}"
+  },
+  "country": {
+    "lead": "Dopravní aplikace, které budeš {in} potřebovat, a jak je jako cizinec použít.",
+    "soonTitle": "Tato země se připravuje.",
+    "soonText": "Seznam aplikací je zatím jen návrh k ověření a postupy pro cizince ještě nejsou napsané.",
+    "kitH2": "Balíček před příjezdem",
+    "kitSub": "Nainstaluj doma, ještě před cestou.",
+    "allH2": "Všechny aplikace",
+    "filterAria": "Kategorie aplikací",
+    "filterAll": "Vše",
+    "shown": "Zobrazeno aplikací: {n}",
+    "guideLink": "Postup pro cizince",
+    "noGuide": "Postup připravujeme"
+  },
+  "offline": {
+    "save": "Uložit offline",
+    "saving": "Ukládám…",
+    "saved": "Uloženo pro offline použití",
+    "remove": "Odstranit",
+    "error": "Uložení se nepovedlo. Zkus to znovu s připojením k internetu.",
+    "retry": "Zkusit znovu"
+  },
+  "app": {
+    "verified": "Naposledy ověřeno: {date}",
+    "notVerified": "Naposledy ověřeno: –",
+    "guideH2": "Postup pro cizince",
+    "screenshot": "Sem přijde anotovaný screenshot",
+    "reqH2": "Požadavky",
+    "feedbackH2": "Funguje to ještě?",
+    "feedbackP": "Zkusil jsi postup? Dej vědět, ať ho můžeme aktualizovat.",
+    "feedbackOk": "Funguje",
+    "feedbackBad": "Nefunguje",
+    "feedbackNote": "Uloženo jen v tomto prohlížeči. Odesílání zpětné vazby zatím nefunguje, připravujeme ho.",
+    "legendH2": "Legenda stavů",
+    "storesH2": "Odkazy do obchodů",
+    "storesPlaceholder": "App Store a Google Play. Odkazy se doplní podle země účtu.",
+    "store": {
+      "ios": "App Store",
+      "android": "Google Play",
+      "web": "Web"
+    }
+  },
+  "req": {
+    "cardPhone": "Místní číslo",
+    "cardCard": "Zahraniční karta",
+    "phone": "Místní telefonní číslo",
+    "card": "Zahraniční platební karta",
+    "languages": "Jazyky aplikace",
+    "offline": "Funguje offline"
+  },
+  "tri": {
+    "yes": "Ano",
+    "no": "Ne",
+    "unknown": "Neznámé"
+  },
+  "status": {
+    "verified": "Ověřeno",
+    "partial": "Částečně funguje",
+    "broken": "Nefunguje",
+    "pending": "Čeká na ověření"
+  },
+  "statusDesc": {
+    "verified": "Postup prošel kontrolou v uvedeném dni.",
+    "partial": "Něco se změnilo, postup je potřeba upravit.",
+    "broken": "Postup už neplatí.",
+    "pending": "Zatím to nikdo nezkontroloval."
+  },
+  "category": {
+    "mhd": "MHD a jízdenky",
+    "rail": "Vlaky",
+    "bus": "Dálkové autobusy",
+    "taxi": "Taxi a sdílené jízdy",
+    "micro": "Mikromobilita",
+    "nav": "Navigace a spojení"
+  },
+  "footer": {
+    "title": "EzWay – přehled dopravních aplikací podle destinace.",
+    "note": "Názvy aplikací patří jejich vlastníkům. EzWay s jejich provozovateli není nijak spojen."
+  },
+  "notFound": {
+    "title": "Stránka nenalezena",
+    "text": "Tuhle adresu neznáme. Zkus to od úvodní stránky.",
+    "home": "Na úvodní stránku"
+  }
+}

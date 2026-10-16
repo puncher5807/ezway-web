@@ -1,0 +1,210 @@
+{
+  "code": "cz",
+  "order": 1,
+  "status": "pilot",
+  "name": {
+    "cs": "Česko",
+    "en": "Czechia"
+  },
+  "nameIn": {
+    "cs": "v Česku",
+    "en": "in Czechia"
+  },
+  "capital": {
+    "cs": "Praha",
+    "en": "Prague"
+  },
+  "flagLabel": {
+    "cs": "Vlajka České republiky",
+    "en": "Flag of the Czech Republic"
+  },
+  "apps": [
+    {
+      "id": "pid-litacka",
+      "name": "PID Lítačka",
+      "category": "mhd",
+      "description": {
+        "cs": "Jízdenky včetně dlouhodobých, plánování cesty od dveří ke dveřím, parkování.",
+        "en": "Tickets including long-term ones, door-to-door journey planning, parking."
+      },
+      "requires": {
+        "localPhone": "unknown",
+        "foreignCard": "unknown",
+        "offline": "unknown",
+        "languages": null
+      },
+      "stores": {
+        "ios": null,
+        "android": null,
+        "web": null
+      },
+      "status": "pending",
+      "verifiedAt": null,
+      "kit": 1,
+      "summary": {
+        "cs": "Aplikace pro Prahu a Středočeský kraj: jízdenky včetně dlouhodobých, plánování cesty od dveří ke dveřím, parkování a mapy.",
+        "en": "App for Prague and the Central Bohemian Region: tickets including long-term ones, door-to-door journey planning, parking and maps."
+      },
+      "source": {
+        "cs": "Popis funkcí vychází z tiskové zprávy PID z února 2026.",
+        "en": "The feature description is based on a PID press release from February 2026."
+      }
+    },
+    {
+      "id": "ceske-drahy",
+      "name": "České dráhy",
+      "category": "rail",
+      "description": {
+        "cs": "Vlaky po celém Česku. [doplnit po ověření]",
+        "en": "Trains across Czechia. [to be added after verification]"
+      },
+      "requires": {
+        "localPhone": "unknown",
+        "foreignCard": "unknown",
+        "offline": "unknown",
+        "languages": null
+      },
+      "stores": {
+        "ios": null,
+        "android": null,
+        "web": null
+      },
+      "status": "pending",
+      "verifiedAt": null
+    },
+    {
+      "id": "flixbus",
+      "name": "FlixBus",
+      "category": "bus",
+      "description": {
+        "cs": "Dálkové autobusy a mezinárodní spojení. [doplnit po ověření]",
+        "en": "Long-distance buses and international connections. [to be added after verification]"
+      },
+      "requires": {
+        "localPhone": "unknown",
+        "foreignCard": "unknown",
+        "offline": "unknown",
+        "languages": null
+      },
+      "stores": {
+        "ios": null,
+        "android": null,
+        "web": null
+      },
+      "status": "pending",
+      "verifiedAt": null
+    },
+    {
+      "id": "bolt",
+      "name": "Bolt",
+      "category": "taxi",
+      "description": {
+        "cs": "Objednání taxi a sdílených jízd. [doplnit po ověření]",
+        "en": "Ordering taxis and ride sharing. [to be added after verification]"
+      },
+      "requires": {
+        "localPhone": "unknown",
+        "foreignCard": "unknown",
+        "offline": "unknown",
+        "languages": null
+      },
+      "stores": {
+        "ios": null,
+        "android": null,
+        "web": null
+      },
+      "status": "pending",
+      "verifiedAt": null,
+      "kit": 3
+    },
+    {
+      "id": "uber",
+      "name": "Uber",
+      "category": "taxi",
+      "description": {
+        "cs": "Objednání taxi. [doplnit po ověření]",
+        "en": "Ordering taxis. [to be added after verification]"
+      },
+      "requires": {
+        "localPhone": "unknown",
+        "foreignCard": "unknown",
+        "offline": "unknown",
+        "languages": null
+      },
+      "stores": {
+        "ios": null,
+        "android": null,
+        "web": null
+      },
+      "status": "pending",
+      "verifiedAt": null
+    },
+    {
+      "id": "lime",
+      "name": "Lime",
+      "category": "micro",
+      "description": {
+        "cs": "Sdílené koloběžky. [doplnit po ověření]",
+        "en": "Shared e-scooters. [to be added after verification]"
+      },
+      "requires": {
+        "localPhone": "unknown",
+        "foreignCard": "unknown",
+        "offline": "unknown",
+        "languages": null
+      },
+      "stores": {
+        "ios": null,
+        "android": null,
+        "web": null
+      },
+      "status": "pending",
+      "verifiedAt": null
+    },
+    {
+      "id": "idos",
+      "name": "IDOS",
+      "category": "nav",
+      "description": {
+        "cs": "Vyhledávač spojení. [doplnit po ověření]",
+        "en": "Journey planner. [to be added after verification]"
+      },
+      "requires": {
+        "localPhone": "unknown",
+        "foreignCard": "unknown",
+        "offline": "unknown",
+        "languages": null
+      },
+      "stores": {
+        "ios": null,
+        "android": null,
+        "web": null
+      },
+      "status": "pending",
+      "verifiedAt": null,
+      "kit": 2
+    },
+    {
+      "id": "google-maps",
+      "name": "Google Maps",
+      "category": "nav",
+      "description": {
+        "cs": "Plánování tras. EzWay ho nenahrazuje, ukazuje jen, kdy se hodí.",
+        "en": "Route planning. EzWay does not replace it, it only shows when it is useful."
+      },
+      "requires": {
+        "localPhone": "unknown",
+        "foreignCard": "unknown",
+        "offline": "unknown",
+        "languages": null
+      },
+      "stores": {
+        "ios": null,
+        "android": null,
+        "web": null
+      },
+      "status": "pending",
+      "verifiedAt": null
+    }
+  ]
+}

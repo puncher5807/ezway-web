@@ -1,0 +1,180 @@
+{
+  "code": "at",
+  "order": 5,
+  "status": "soon",
+  "name": {
+    "cs": "Rakousko",
+    "en": "Austria"
+  },
+  "nameIn": {
+    "cs": "v Rakousku",
+    "en": "in Austria"
+  },
+  "capital": {
+    "cs": "Vídeň",
+    "en": "Vienna"
+  },
+  "flagLabel": {
+    "cs": "Vlajka Rakouska",
+    "en": "Flag of Austria"
+  },
+  "apps": [
+    {
+      "id": "oebb",
+      "name": "ÖBB",
+      "category": "rail",
+      "description": {
+        "cs": "Vlaky ÖBB a vyhledávání spojení. [doplnit po ověření]",
+        "en": "ÖBB trains and journey planning. [to be added after verification]"
+      },
+      "requires": {
+        "localPhone": "unknown",
+        "foreignCard": "unknown",
+        "offline": "unknown",
+        "languages": null
+      },
+      "stores": {
+        "ios": null,
+        "android": null,
+        "web": null
+      },
+      "status": "pending",
+      "verifiedAt": null,
+      "kit": 1
+    },
+    {
+      "id": "westbahn",
+      "name": "WESTbahn",
+      "category": "rail",
+      "description": {
+        "cs": "Vlaky společnosti WESTbahn. [doplnit po ověření]",
+        "en": "WESTbahn trains. [to be added after verification]"
+      },
+      "requires": {
+        "localPhone": "unknown",
+        "foreignCard": "unknown",
+        "offline": "unknown",
+        "languages": null
+      },
+      "stores": {
+        "ios": null,
+        "android": null,
+        "web": null
+      },
+      "status": "pending",
+      "verifiedAt": null
+    },
+    {
+      "id": "wienmobil",
+      "name": "WienMobil",
+      "category": "mhd",
+      "description": {
+        "cs": "MHD ve Vídni. [doplnit po ověření]",
+        "en": "Public transport in Vienna. [to be added after verification]"
+      },
+      "requires": {
+        "localPhone": "unknown",
+        "foreignCard": "unknown",
+        "offline": "unknown",
+        "languages": null
+      },
+      "stores": {
+        "ios": null,
+        "android": null,
+        "web": null
+      },
+      "status": "pending",
+      "verifiedAt": null,
+      "kit": 2
+    },
+    {
+      "id": "flixbus",
+      "name": "FlixBus",
+      "category": "bus",
+      "description": {
+        "cs": "Dálkové autobusy a mezinárodní spojení. [doplnit po ověření]",
+        "en": "Long-distance buses and international connections. [to be added after verification]"
+      },
+      "requires": {
+        "localPhone": "unknown",
+        "foreignCard": "unknown",
+        "offline": "unknown",
+        "languages": null
+      },
+      "stores": {
+        "ios": null,
+        "android": null,
+        "web": null
+      },
+      "status": "pending",
+      "verifiedAt": null
+    },
+    {
+      "id": "bolt",
+      "name": "Bolt",
+      "category": "taxi",
+      "description": {
+        "cs": "Objednání taxi a sdílených jízd. [doplnit po ověření]",
+        "en": "Ordering taxis and ride sharing. [to be added after verification]"
+      },
+      "requires": {
+        "localPhone": "unknown",
+        "foreignCard": "unknown",
+        "offline": "unknown",
+        "languages": null
+      },
+      "stores": {
+        "ios": null,
+        "android": null,
+        "web": null
+      },
+      "status": "pending",
+      "verifiedAt": null,
+      "kit": 3
+    },
+    {
+      "id": "uber",
+      "name": "Uber",
+      "category": "taxi",
+      "description": {
+        "cs": "Objednání taxi. [doplnit po ověření]",
+        "en": "Ordering taxis. [to be added after verification]"
+      },
+      "requires": {
+        "localPhone": "unknown",
+        "foreignCard": "unknown",
+        "offline": "unknown",
+        "languages": null
+      },
+      "stores": {
+        "ios": null,
+        "android": null,
+        "web": null
+      },
+      "status": "pending",
+      "verifiedAt": null
+    },
+    {
+      "id": "google-maps",
+      "name": "Google Maps",
+      "category": "nav",
+      "description": {
+        "cs": "Plánování tras. EzWay ho nenahrazuje, ukazuje jen, kdy se hodí.",
+        "en": "Route planning. EzWay does not replace it, it only shows when it is useful."
+      },
+      "requires": {
+        "localPhone": "unknown",
+        "foreignCard": "unknown",
+        "offline": "unknown",
+        "languages": null
+      },
+      "stores": {
+        "ios": null,
+        "android": null,
+        "web": null
+      },
+      "status": "pending",
+      "verifiedAt": null
+    }
+  ]
+}
